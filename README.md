@@ -1,2 +1,1 @@
-# caching_lesson
- 
+# load-balancer-exercise
